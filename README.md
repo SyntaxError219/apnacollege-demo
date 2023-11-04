@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author - Aditya Sharma
+Author - Aditya_Sharma
+
